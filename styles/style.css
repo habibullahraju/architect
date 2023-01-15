@@ -335,6 +335,9 @@ footer {
     width: 100%;
     padding: 0 10px;
   }
+  .bannar-image img{
+    padding-bottom: 40px;
+  }
   .bannar-title {
     font-size: 45px;
     font-weight: 800;
@@ -372,6 +375,9 @@ footer {
   }
   .all-testimonials {
     flex-direction: column;
+  }
+  footer{
+    width: 100%;
   }
 }
 /* media query design end  */
